@@ -10,7 +10,6 @@ This project implements an end-to-end MLOps pipeline for California Housing pric
 
 ## Repository Links
 - GitHub: [https://github.com/g24ai1070/housing_predictor]
-- Docker Hub: [https://hub.docker.com/repository/docker/sourin00/housing-predictor/general]
 
 ## Branches
 - `main`: Initial setup and documentation
